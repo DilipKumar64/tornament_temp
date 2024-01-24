@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "261602903520",
+    "project_id": "tornament-app-51ddd",
+    "storage_bucket": "tornament-app-51ddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261602903520:android:623caf215099f5ae2b9785",
+        "android_client_info": {
+          "package_name": "com.example.tornament_mng"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_zZAz9DoaGMRMSn1K42TLgDoPT29wROw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261602903520:android:3b62a180aab01e362b9785",
+        "android_client_info": {
+          "package_name": "com.example.tornament_temp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_zZAz9DoaGMRMSn1K42TLgDoPT29wROw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
